@@ -28,7 +28,7 @@ public class GooGooDan {
         System.out.println("FIBO1");
 
 
-        System.out.println("FIBO2");
+        
 
 
     }
