@@ -24,6 +24,7 @@ public class GooGooDan {
         System.out.println(fibo_dynamic(i));
         long end_fibo_dynamic = System.nanoTime();
         System.out.println(end_fibo_dynamic - start_fibo_dynamic);
+        System.out.println(end_fibo_dynamic - start_fibo_dynamic);
 
     }
     private static int fibo(int i) {
