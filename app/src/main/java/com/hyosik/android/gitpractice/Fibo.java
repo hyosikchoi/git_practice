@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-public class GooGooDan {
+public class Fibo {
 
     static long[] fibo_memo;
 
@@ -25,11 +25,15 @@ public class GooGooDan {
         long end_fibo_dynamic = System.nanoTime();
         System.out.println(end_fibo_dynamic - start_fibo_dynamic);
 
+
+        System.out.println("FIBO3");
         System.out.println("FIBO1");
-        
+
+        System.out.println("FIBO1");
 
 
         System.out.println("FIBO2");
+        System.out.println("FIBO3");
 
 
     }
