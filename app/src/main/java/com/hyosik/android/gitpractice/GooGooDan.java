@@ -26,7 +26,7 @@ public class GooGooDan {
         System.out.println(end_fibo_dynamic - start_fibo_dynamic);
 
         System.out.println("FIBO1");
-        System.out.println("FIBO1.5");
+        
 
 
         System.out.println("FIBO2");
