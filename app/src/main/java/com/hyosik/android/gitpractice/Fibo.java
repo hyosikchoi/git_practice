@@ -24,7 +24,7 @@ public class Fibo {
         long end_fibo_dynamic = System.nanoTime();
         System.out.println(end_fibo_dynamic - start_fibo_dynamic);
 
-        System.out.println("bbbb");
+        System.out.println("bbaa");
         System.out.println("bbbb");
         System.out.println("aaaa");
         System.out.println("aaaa");
