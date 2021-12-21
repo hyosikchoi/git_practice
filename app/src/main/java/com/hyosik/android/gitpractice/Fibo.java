@@ -18,16 +18,17 @@ public class Fibo {
         System.out.println(fibo(i));
         long end_fibo = System.nanoTime();
         System.out.println(end_fibo - start_fibo);
-        
 
         long start_fibo_dynamic = System.nanoTime();
         System.out.println(fibo_dynamic(i));
         long end_fibo_dynamic = System.nanoTime();
         System.out.println(end_fibo_dynamic - start_fibo_dynamic);
 
-        System.out.println("2222");
-        System.out.println("3333");
-
+        System.out.println("bbbb");
+        System.out.println("bbbb");
+        System.out.println("aaaa");
+        System.out.println("aaaa");
+        System.out.println("aaaa");
     }
     private static int fibo(int i) {
 
