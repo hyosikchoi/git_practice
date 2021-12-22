@@ -27,8 +27,8 @@ public class Fibo {
         System.out.println("bbbb");
         System.out.println("bbbb");
         System.out.println("aaaa");
-        System.out.println("aaaa");
-        System.out.println("aaaa");
+        
+
     }
     private static int fibo(int i) {
 
