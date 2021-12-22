@@ -30,7 +30,16 @@ public class Fibo {
         System.out.println("aaaa");
         System.out.println("aaaa");
         System.out.println("aaaa");
+        System.out.println("aaaa");
+        System.out.println("aaaa");
+        System.out.println("aaaa");
+        System.out.println("aaaa");
+        System.out.println("aaaa");
+        System.out.println("aaaa");
+        System.out.println("aaaa");
 
+
+        int o = 0;
 
     }
     private static int fibo(int i) {
